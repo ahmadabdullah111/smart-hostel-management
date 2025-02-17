@@ -1,26 +1,16 @@
-# smart-hostel-management
-A hostel management system with automated booking and tracking functionalities.
-
----
-
-## **4️⃣ Smart Hostel Management System**  
-### 📌 **README.md Template**  
-```md
 # Smart Hostel Management System
 
-## 📖 Overview
-This **Smart Hostel Management System** automates hostel room allocation and student record management.
+## 📌 Overview
+A hostel management system that helps manage student accommodations efficiently.
 
 ## 🚀 Features
-- Student registration and record management
-- Room allocation tracking
-- Search functionality
+- Room booking and allocation
+- Fee tracking system
+- User authentication
 
 ## 🛠️ Technologies Used
-- Packet Tracer (Networking)
-- Database Management
+- Cisco Packet Tracer (for network simulation)
+- C / Java (if applicable)
 
-## 🔧 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/smart-hostel-management.git
+## 📦 Installation
+1. Clone the repository:  
